@@ -3,6 +3,6 @@
 
 Προστέθηκε και αποστολή email. (Αλλαγές μέσα στο coronavirus.py)
 
-                //to1 = 'emialtosend@gmail.com'
+                //to1 = 'emailtosend@gmail.com'
                 //gmail_user = 'youremail@gmail.com'
                 //gmail_pwd = 'yourpassword'
